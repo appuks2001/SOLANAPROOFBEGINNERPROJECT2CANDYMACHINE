@@ -1,5 +1,5 @@
 
-# Creation of SPL token & Candy machine UI Setup
+# SOLANA BEGINNER PROJECT2(Creating SPL Token & Candy machine UI Setup)
 
 This guide will walk you through the steps to set up the user interface (UI) for your Candy Machine, allowing users to mint NFTs using the SPL token you've created. The UI will use the SPL token as the payment method, and users will be able to mint NFTs by connecting their Phantom wallet.
 
